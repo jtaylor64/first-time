@@ -1,2 +1,2 @@
-# first-time
+# hello-world
 test repository
